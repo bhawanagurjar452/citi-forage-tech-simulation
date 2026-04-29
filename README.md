@@ -42,3 +42,35 @@ This project was completed as part of the \*\*Citi Group Technology Software Dev
 
 1\. Clone the repository:
 
+git clone https://github.com/bhawanagurjar452/citi-forage-tech-simulation.git
+
+2\. Navigate to the project folder:
+
+cd citi-forage-tech-simulation
+
+3\. Run the application:
+
+gradle run --no-configuration-cache
+
+
+
+\## Skills Demonstrated
+
+\- Java programming
+
+\- Gradle build system
+
+\- Third-party API integration (Yahoo Finance)
+
+\- JavaFX GUI development
+
+\- Data structures (Queue)
+
+\- Git \& GitHub version control
+
+
+
+\## Certificate
+
+Completed via \[Forage](https://www.theforage.com/) — Citi Technology Software Development Virtual Experience Program
+
